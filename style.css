@@ -1,0 +1,20 @@
+table, th, td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    padding: 5px;
+    width: 80%;
+}
+td{
+    text-align: center;
+}
+th{
+    font-weight: bold;
+}
+/* nth-child(even){
+    background-color: blueviolet;
+} */
+/* tr :nth-child(even){
+    background-color: blueviolet;
+} */
